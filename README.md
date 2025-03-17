@@ -1,4 +1,4 @@
-## ────୨ৎ────
+## ────୨ৎ Sobre Mim ୨ৎ────
 
 - 𐙚 Me chamo Eduarda!
 - 𐙚 Atualmente estou no 2 ano de Desenvolvimento de Sistemas!
