@@ -20,9 +20,10 @@
 </p>
   <h2 align="center"> Minhas Redes Sociais :</h2>
 <p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://github.com/sisodiya2421"><img width="133" src="linkedin.png" alt="LinkedIn"/></a>
+ 	<a href="https://criarmeulink.com.br/u/1744494607"><img width="133" src="linkedin.png" alt="Email"/></a>
+	<a href="https://github.com/sisodiya2421"><img width="133" src="linkedin.png" alt="Ins"/></a>
+	
 	
 </p>
 
