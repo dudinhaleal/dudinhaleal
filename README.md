@@ -2,13 +2,14 @@
 
 
 
+<img align="center" width="1000" src="![932288a4c5f54d49a29725bd3caa8bf1 1]" alt=""/>
 
 <p align="center">
-────୨ৎ Sobre Mim ୨ৎ────
+	<img align="center" width="40" src="https://i.pinimg.com/originals/44/d9/a9/44d9a9274de7bd1b0ff697ce0d93aaa4.gif" alt="laço"/> Sobre Mim  
 
 <p align="center">
- 𐙚 Me chamo Eduarda! <br>
- <img width="40" src="https://media0.giphy.com/media/j0AIRCrezHXxkvaEFt/giphy.gif?cid=6c09b952okhb50z2g8mq84q6w06x5i39m3vsjzjpxoc56k95&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="laço"/> Atualmente estou no 2 ano de Desenvolvimento de Sistemas! 
+  <img align="center" width="40" src="https://i.pinimg.com/originals/92/49/21/924921f03066badf160c34fadcef83f0.gif" alt="laço"/>Me chamo Eduarda! <br>
+  <img align="center" width="40" src="https://i.pinimg.com/originals/92/49/21/924921f03066badf160c34fadcef83f0.gif" alt="laço"/>Atualmente estou no 2 ano de Desenvolvimento de Sistemas! 
 </p>
   <p align="center"> Minhas Redes Sociais :</p>
 <p align="center">
