@@ -5,7 +5,7 @@
 <img align="center" width="1000" src="Cópia de CUPCAKES.png" alt=""/>
 
 <p align="center">
-	<img align="center" width="200" src="https://i.pinimg.com/originals/b2/c6/28/b2c62849280c8fd2814d1b917c1345b2.gif" alt="laço"/> <h2 align="center">Sobre Mim</h2>   
+	<img align="center" width="200" src="https://i.pinimg.com/originals/b2/c6/28/b2c62849280c8fd2814d1b917c1345b2.gif"alt="laço"/> 	<h2 align="center">Sobre Mim</h2>   
 
 <p align="center">
   <ul>
@@ -26,7 +26,10 @@
 	
 	
 </p>
-
+<p align="center">
+	<img align="center" width="200" src="https://i.pinimg.com/originals/4b/09/08/4b09087fcc8a1717d2a5e2b084496158.gif"alt="laço"/>
+</p>
+<img align="center" width="1000" src="footer.png" alt=""/>
 
 
 
