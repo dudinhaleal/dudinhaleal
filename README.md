@@ -26,9 +26,7 @@
 	
 	
 </p>
-<p align="center">
-	<img align="center" width="200" src="https://i.pinimg.com/originals/4b/09/08/4b09087fcc8a1717d2a5e2b084496158.gif"alt="laço"/>
-</p>
+
 <img align="center" width="1000" src="footer.png" alt=""/>
 
 
