@@ -22,7 +22,7 @@
 <p align="center">
 	<a href="https://github.com/sisodiya2421"><img width="133" src="linkedin.png" alt="LinkedIn"/></a>
  	<a href="https://criarmeulink.com.br/u/1744494607"><img width="133" src="linkedin.png" alt="Email"/></a>
-	<a href="https://github.com/sisodiya2421"><img width="133" src="linkedin.png" alt="Ins"/></a>
+	<a href="https://github.com/sisodiya2421"><img width="133" src="instagram.png" alt="Ins"/></a>
 	
 	
 </p>
