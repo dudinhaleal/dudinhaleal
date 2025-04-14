@@ -20,9 +20,9 @@
 </p>
   <h2 align="center"> Minhas Redes Sociais :</h2>
 <p align="center">
-	<a href="https://br.linkedin.com/in/eduarda-leal-tavares-a2865b332?original_referer=https%3A%2F%2Fbr.linkedin.com%2Fpub%2Fdir%2F%2B%2F%2B%3Ftrk%3Dpublic_profile_guest_nav_menu_people"><img width="133" src="linkedin.png" alt="LinkedIn"/></a>
- 	<a href="https://discord.com/"><img width="133" src="discord.png" alt="discord"/></a>
-	<a href="https://instagram.com/eduardaleal.t"><img width="133" src="instagram.png" alt="Ins"/></a>
+	<a href="https://br.linkedin.com/in/eduarda-leal-tavares-a2865b332?original_referer=https%3A%2F%2Fbr.linkedin.com%2Fpub%2Fdir%2F%2B%2F%2B%3Ftrk%3Dpublic_profile_guest_nav_menu_people"><img width="180" src="linkedin.png" alt="LinkedIn"/></a>
+ 	<a href="https://discord.com/"><img width="180" src="discord.png" alt="discord"/></a>
+	<a href="https://instagram.com/eduardaleal.t"><img width="180" src="instagram.png" alt="Ins"/></a>
 	
 	
 </p>
