@@ -5,18 +5,10 @@
 <img align="center" width="1000" src="Cópia de CUPCAKES.png" alt=""/>
 
 <p align="center">
-	<img align="center" width="200" src="https://i.pinimg.com/originals/05/28/7f/05287faf7984313b3a746c3791996f06.gif"alt="laço"/> 	<h2 align="center">Sobre Mim</h2>   
+	<img align="center" width="200" src="https://64.media.tumblr.com/54d1df6076ea7e784b8d9423ebef9829/tumblr_n2jghpgsE61snc5kxo1_1280.gif"alt="laço"/> 	
 
-<p align="center">
-  <ul>
-  <li>
-    Me chamo Eduarda!
-  </li>
-  </br>
-  <li>
-    Atualmente estou cursando o 2º ano do Ensino Médio integrado com Técnico em 	Desenvolvimento de Sistemas
-  </li>
-</ul>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dudinhaleal&bg_color=000000&color=b02b76&line=ffffff&point=ff9fb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
   <h2 align="center"> Minhas Redes Sociais :</h2>
 <p align="center">
@@ -27,7 +19,7 @@
 	
 </p>
 
-<img align="center" width="1000" src="footer.png" alt=""/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b02b76&height=120&section=footer"/>
 
 
 
