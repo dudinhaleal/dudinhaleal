@@ -2,7 +2,7 @@
 
 
 
-<img align="center" width="1000" src="Cópia de CUPCAKES.png" alt=""/>
+<img align="center" width="1000" src="github.png" alt=""/>
 
 <p align="center">
 	<img align="center" width="200" src="https://64.media.tumblr.com/54d1df6076ea7e784b8d9423ebef9829/tumblr_n2jghpgsE61snc5kxo1_1280.gif"alt="laço"/> 	
